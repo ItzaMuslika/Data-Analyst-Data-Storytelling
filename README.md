@@ -1,4 +1,4 @@
-![image](https://github.com/ItzaMuslika/Data-Analyst-Data-Storytelling/assets/149229536/98120c97-5beb-4f2b-82f9-85e2df557484)![image](https://github.com/ItzaMuslika/Data-Analyst-Data-Storytelling/assets/149229536/39eb9db1-63ac-4a5c-a812-a970958a03a8)# Data-Analyst-Data-Storytelling
+# Data-Analyst-Data-Storytelling
 
 ## Data Storytelling
 
